@@ -1,0 +1,28 @@
+// .todoForm .odd{
+//     background-color: blue;
+//   }
+  
+// .todoForm .even{
+//     background-color: red;
+// }
+  
+$blue: #5ab7ff;
+$red: #ff2727;
+
+.todoForm{
+    .odd{
+        background-color: $blue;
+
+        &:hover{
+            background-color: darken($blue, 20%);
+        }
+        &:active{
+            background-color: lighten($blue, 10%);
+        }
+    }
+
+    .even{
+        background-color: $red;
+    }
+}
+

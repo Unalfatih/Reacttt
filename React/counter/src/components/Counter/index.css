@@ -1,0 +1,12 @@
+/* .counter{
+
+} */
+.counter-buttons{
+    display: flex;
+    gap: 24px;
+    align-items: center;
+}
+
+.counter-buttons span{
+    font-size: 32px;
+}

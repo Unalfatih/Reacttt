@@ -1,0 +1,34 @@
+{
+  "calculator": [
+    {
+      "id": "f6ce",
+      "name": "Fatih",
+      "surname": "Ünal",
+      "age": "23",
+      "height": "124",
+      "width": "22",
+      "gender": "Erkek",
+      "vki": 14.308012486992714
+    },
+    {
+      "id": "b5e0",
+      "name": "Fatih",
+      "surname": "ÜNAL",
+      "age": "44",
+      "height": "194",
+      "width": "86",
+      "gender": "Erkek",
+      "vki": 22.85046232330747
+    },
+    {
+      "id": "4bf3",
+      "name": "Fatih",
+      "surname": "Ünal",
+      "age": "44",
+      "height": "196",
+      "width": "48",
+      "gender": "Erkek",
+      "vki": 12.494793835901708
+    }
+  ]
+}
